@@ -20,7 +20,7 @@ const App: FC = () => {
                         exact path="/cardata" 
                         component={CarData} />
                     <Route 
-                        exact path="/roadies" 
+                        exact path="/dagar" 
                         component={RoadMeasurements} />
                     <Route 
                         exact path="/road_conditions"    
